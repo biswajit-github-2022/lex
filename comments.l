@@ -19,3 +19,5 @@ fclose(yyin);
 fclose(yyout);
 return 0;
 }
+
+\/\*.\\/|\/\*.[\n].\*\/
